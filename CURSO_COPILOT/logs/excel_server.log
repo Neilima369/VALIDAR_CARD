@@ -1,0 +1,430 @@
+27/05/2025 14:38:43 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:38:44 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:38:44 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:38:46 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:38:46 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:38:47 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:38:48 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:38:48 - DEBUG:Import VBA Files Finish
+27/05/2025 14:39:16 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:39:17 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:39:17 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:39:17 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:39:17 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:39:17 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:39:18 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:39:18 - DEBUG:Import VBA Files Finish
+27/05/2025 14:41:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:41:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:41:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:41:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:41:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:41:54 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:41:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:41:55 - DEBUG:Import VBA Files Finish
+27/05/2025 14:44:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:44:37 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:44:38 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:44:38 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:44:38 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:44:38 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:44:39 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:44:39 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:44:39 - DEBUG:Import VBA Files Finish
+27/05/2025 14:44:44 - Error:Error inAutoloadModules
+27/05/2025 14:45:02 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:45:02 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:45:03 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:45:03 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:45:03 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:45:03 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:45:04 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:45:04 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:45:05 - DEBUG:Import VBA Files Finish
+27/05/2025 14:45:07 - Error:Error inAutoloadModules
+27/05/2025 14:45:09 - Error:Error inAutoloadModules
+27/05/2025 14:45:09 - Error:Error inAutoloadModules
+27/05/2025 14:45:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:45:30 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:45:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:45:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:45:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:45:31 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:45:31 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:45:31 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:45:31 - DEBUG:Import VBA Files Finish
+27/05/2025 14:45:33 - Error:Error inAutoloadModules
+27/05/2025 14:45:35 - Error:Error inAutoloadModules
+27/05/2025 14:49:28 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:49:28 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:49:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:49:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:49:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:49:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:49:29 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:49:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:49:30 - DEBUG:Import VBA Files Finish
+27/05/2025 14:49:30 - Error:Error inAutoloadModules
+27/05/2025 14:49:40 - Error:Error inAutoloadModules
+27/05/2025 14:49:43 - Error:Error inAutoloadModules
+27/05/2025 14:50:22 - Error:Error inAutoloadModules
+27/05/2025 14:50:50 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:50:50 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:50:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:50:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:50:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:50:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:50:52 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:50:52 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:50:52 - DEBUG:Import VBA Files Finish
+27/05/2025 14:50:54 - Error:Error inAutoloadModules
+27/05/2025 14:51:04 - Error:Error inAutoloadModules
+27/05/2025 14:51:05 - Error:Error inAutoloadModules
+27/05/2025 14:51:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:51:36 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:51:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:51:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:51:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:51:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:51:37 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:51:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:51:37 - DEBUG:Import VBA Files Finish
+27/05/2025 14:51:38 - Error:Error inAutoloadModules
+27/05/2025 14:51:38 - Error:Error inAutoloadModules
+27/05/2025 14:51:39 - Error:Error inAutoloadModules
+27/05/2025 14:51:40 - Error:Error inAutoloadModules
+27/05/2025 14:51:46 - Error:Error inAutoloadModules
+27/05/2025 14:52:19 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:52:20 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:52:20 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:52:21 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:52:21 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:52:21 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:52:22 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:52:22 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:52:22 - DEBUG:Import VBA Files Finish
+27/05/2025 14:52:23 - Error:Error inAutoloadModules
+27/05/2025 14:52:24 - Error:Error inAutoloadModules
+27/05/2025 14:52:27 - Error:Error inAutoloadModules
+27/05/2025 14:52:31 - Error:Error inAutoloadModules
+27/05/2025 14:52:33 - Error:Error inAutoloadModules
+27/05/2025 14:52:36 - Error:Error inAutoloadModules
+27/05/2025 14:52:38 - Error:Error inAutoloadModules
+27/05/2025 14:53:26 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:53:27 - DEBUG:MODULE IMPORTED: Validar_Bandeiras_de_Cartao.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\Validar_Bandeiras_de_Cartao.bas TO EXCEL
+27/05/2025 14:53:27 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:53:28 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:53:28 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:53:28 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:53:28 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:53:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:53:29 - DEBUG:Import VBA Files Finish
+27/05/2025 14:53:30 - Error:Error inAutoloadModules
+27/05/2025 14:53:30 - Error:Error inAutoloadModules
+27/05/2025 14:53:31 - Error:Error inAutoloadModules
+27/05/2025 14:53:32 - Error:Error inAutoloadModules
+27/05/2025 14:54:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:54:35 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 14:54:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:54:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:54:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:54:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:54:36 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:54:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:54:37 - DEBUG:Import VBA Files Finish
+27/05/2025 14:54:40 - Error:Error inAutoloadModules
+27/05/2025 14:54:55 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:54:56 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 14:54:56 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:54:56 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 14:54:56 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:54:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:54:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:54:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:54:57 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:54:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:54:58 - DEBUG:Import VBA Files Finish
+27/05/2025 14:55:00 - Error:Error inAutoloadModules
+27/05/2025 14:55:03 - Error:Error inAutoloadModules
+27/05/2025 14:55:05 - Error:Error inAutoloadModules
+27/05/2025 14:55:07 - Error:Error inAutoloadModules
+27/05/2025 14:55:39 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:55:40 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 14:55:40 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:55:41 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:55:41 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:55:41 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:55:41 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:55:42 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:55:42 - DEBUG:Import VBA Files Finish
+27/05/2025 14:55:43 - Error:Error inAutoloadModules
+27/05/2025 14:55:44 - Error:Error inAutoloadModules
+27/05/2025 14:55:44 - Error:Error inAutoloadModules
+27/05/2025 14:55:45 - Error:Error inAutoloadModules
+27/05/2025 14:55:46 - Error:Error inAutoloadModules
+27/05/2025 14:55:47 - Error:Error inAutoloadModules
+27/05/2025 14:56:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:56:29 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 14:56:29 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 14:56:30 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 14:56:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 14:56:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 14:56:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 14:56:30 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 14:56:31 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 14:56:31 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 14:56:31 - DEBUG:Import VBA Files Finish
+27/05/2025 14:56:32 - Error:Error inAutoloadModules
+27/05/2025 14:56:32 - Error:Error inAutoloadModules
+27/05/2025 14:56:33 - Error:Error inAutoloadModules
+27/05/2025 14:56:33 - Error:Error inAutoloadModules
+27/05/2025 14:56:37 - Error:Error inAutoloadModules
+27/05/2025 14:56:39 - Error:Error inAutoloadModules
+27/05/2025 15:18:48 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:18:48 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:18:49 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:18:49 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:18:50 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:18:50 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:18:51 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:18:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:18:51 - DEBUG:Import VBA Files Finish
+27/05/2025 15:18:51 - Error:Error inAutoloadModules
+27/05/2025 15:18:52 - Error:Error inAutoloadModules
+27/05/2025 15:18:53 - Error:Error inAutoloadModules
+27/05/2025 15:18:54 - Error:Error inAutoloadModules
+27/05/2025 15:18:55 - Error:Error inAutoloadModules
+27/05/2025 15:19:19 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:19:19 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:19:19 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:19:20 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:19:20 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:19:20 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:19:20 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:19:21 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:19:21 - DEBUG:Import VBA Files Finish
+27/05/2025 15:19:56 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:19:57 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:19:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:19:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:19:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:19:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:19:59 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:19:59 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:20:00 - DEBUG:Import VBA Files Finish
+27/05/2025 15:20:00 - Error:Error inAutoloadModules
+27/05/2025 15:20:01 - Error:Error inAutoloadModules
+27/05/2025 15:20:02 - Error:Error inAutoloadModules
+27/05/2025 15:20:08 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:20:09 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:20:09 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:20:10 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:20:10 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:20:10 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:20:11 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:20:11 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:20:11 - DEBUG:Import VBA Files Finish
+27/05/2025 15:27:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:27:54 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:27:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:27:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:27:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:27:55 - Error:Error inAutoloadModules
+27/05/2025 15:27:58 - Error:Error inAutoloadModules
+27/05/2025 15:27:59 - Error:Error inAutoloadModules
+27/05/2025 15:28:01 - Error:Error inAutoloadModules
+27/05/2025 15:28:03 - Error:Error inAutoloadModules
+27/05/2025 15:28:12 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:28:12 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:28:13 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:28:13 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:28:13 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:28:13 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:28:14 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:28:14 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:28:14 - DEBUG:Import VBA Files Finish
+27/05/2025 15:29:21 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:29:21 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:29:22 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:29:22 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:29:22 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:29:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:29:23 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:29:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:29:23 - DEBUG:Import VBA Files Finish
+27/05/2025 15:29:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:29:35 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:29:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:29:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:29:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:29:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:29:37 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:29:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:29:37 - DEBUG:Import VBA Files Finish
+27/05/2025 15:29:40 - Error:Error inAutoloadModules
+27/05/2025 15:29:42 - Error:Error inAutoloadModules
+27/05/2025 15:29:46 - Error:Error inAutoloadModules
+27/05/2025 15:29:49 - Error:Error inAutoloadModules
+27/05/2025 15:29:51 - Error:Error inAutoloadModules
+27/05/2025 15:29:53 - Error:Error inAutoloadModules
+27/05/2025 15:29:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:29:58 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:29:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:29:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:29:59 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:29:59 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:29:59 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:29:59 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:30:00 - DEBUG:Import VBA Files Finish
+27/05/2025 15:40:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:40:35 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:40:36 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:40:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:40:36 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:40:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:40:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:40:37 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:40:38 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:40:38 - DEBUG:Import VBA Files Finish
+27/05/2025 15:40:40 - Error:Error inAutoloadModules
+27/05/2025 15:40:43 - Error:Error inAutoloadModules
+27/05/2025 15:41:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:41:51 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:41:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:41:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:41:52 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:41:52 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:41:52 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:41:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:41:53 - DEBUG:Import VBA Files Finish
+27/05/2025 15:47:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:47:57 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:47:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:47:57 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:47:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:47:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:47:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:47:59 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:47:59 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:48:00 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:48:01 - DEBUG:Import VBA Files Finish
+27/05/2025 15:48:06 - Error:Error inAutoloadModules
+27/05/2025 15:48:09 - Error:Error inAutoloadModules
+27/05/2025 15:48:11 - Error:Error inAutoloadModules
+27/05/2025 15:48:13 - Error:Error inAutoloadModules
+27/05/2025 15:48:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:48:23 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:48:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:48:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:48:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:48:24 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:48:24 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:48:24 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:48:24 - DEBUG:Import VBA Files Finish
+27/05/2025 15:48:37 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:48:38 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:48:38 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:48:39 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:48:39 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:48:39 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:48:40 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:48:40 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:48:40 - DEBUG:Import VBA Files Finish
+27/05/2025 15:48:52 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:48:52 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:48:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:48:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:48:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:48:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:48:54 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:48:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:48:54 - DEBUG:Import VBA Files Finish
+27/05/2025 15:53:53 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:53:54 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:53:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:53:55 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:53:55 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:53:56 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:53:56 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:53:56 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:53:56 - DEBUG:Import VBA Files Finish
+27/05/2025 15:53:57 - Error:Error inAutoloadModules
+27/05/2025 15:53:58 - Error:Error inAutoloadModules
+27/05/2025 15:53:59 - Error:Error inAutoloadModules
+27/05/2025 15:55:08 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:55:08 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:55:08 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:55:08 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:55:09 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:55:09 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:55:10 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:55:10 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:55:10 - DEBUG:Import VBA Files Finish
+27/05/2025 15:55:58 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:55:58 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:55:59 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 15:56:00 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 15:56:00 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 15:56:01 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 15:56:01 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 15:56:02 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 15:56:02 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 15:56:02 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 15:56:02 - DEBUG:Import VBA Files Finish
+27/05/2025 15:56:05 - Error:Error inAutoloadModules
+27/05/2025 15:56:09 - Error:Error inAutoloadModules
+27/05/2025 15:56:12 - Error:Error inAutoloadModules
+27/05/2025 15:56:13 - Error:Error inAutoloadModules
+27/05/2025 15:56:14 - Error:Error inAutoloadModules
+27/05/2025 15:56:16 - Error:Error inAutoloadModules
+27/05/2025 16:10:50 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 16:10:51 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 16:10:51 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 16:10:52 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 16:10:54 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 16:10:55 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 16:10:56 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 16:10:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 16:10:57 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 16:10:59 - Error:Error inAutoloadModules
+27/05/2025 16:11:02 - Error:Error inAutoloadModules
+27/05/2025 16:11:05 - Error:Error inAutoloadModules
+27/05/2025 16:11:07 - Error:Error inAutoloadModules
+27/05/2025 16:11:09 - Error:Error inAutoloadModules
+27/05/2025 16:11:26 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 16:11:26 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 16:11:27 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 16:11:27 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 16:11:27 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 16:11:27 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 16:11:28 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 16:11:28 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 16:11:28 - DEBUG:Import VBA Files Finish
+27/05/2025 16:13:44 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 16:13:44 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 16:13:45 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 16:13:46 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 16:13:47 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 16:13:47 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 16:13:47 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 16:13:48 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 16:13:49 - DEBUG:Import VBA Files Finish
+27/05/2025 16:19:58 - Error:Error inAutoloadModules
+27/05/2025 16:19:59 - Error:Error inAutoloadModules
+27/05/2025 16:20:00 - Error:Error inAutoloadModules
+27/05/2025 16:20:00 - Error:Error inAutoloadModules
+27/05/2025 16:20:05 - Error:Error inAutoloadModules
+27/05/2025 16:20:06 - Error:Error inAutoloadModules
+27/05/2025 16:20:22 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files
+27/05/2025 16:20:22 - DEBUG:MODULE IMPORTED: mdl_VALIDADOR.bas FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\vba-files\mdl_VALIDADOR.bas TO EXCEL
+27/05/2025 16:20:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules
+27/05/2025 16:20:23 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types
+27/05/2025 16:20:24 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\excel-types\logs
+27/05/2025 16:20:24 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug
+27/05/2025 16:20:24 - DEBUG:CLASS IMPORTED: Xdebug FROM FILE: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\Xdebug.cls
+27/05/2025 16:20:24 - DEBUG:Importing VBA Files from: C:\Users\Nei_Lima\Documents\AULA_DIO_GITHUB\CURSO_COPILOT\xvba_modules\Xdebug\images
+27/05/2025 16:20:25 - DEBUG:Import VBA Files Finish
+27/05/2025 16:20:27 - Error:Error inAutoloadModules
+27/05/2025 16:20:29 - Error:Error inAutoloadModules
+27/05/2025 16:20:32 - Error:Error inAutoloadModules
+27/05/2025 16:20:34 - Error:Error inAutoloadModules
